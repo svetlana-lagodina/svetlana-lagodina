@@ -1,4 +1,4 @@
-# Hi, All 😊 My name is [Svetlana](https://www.linkedin.com/in/svetlana-lagodina/). I`m QA Automation Engineer✌
+# Hi, All!😊 My name is [Svetlana](https://www.linkedin.com/in/svetlana-lagodina/). I`m QA Automation Engineer✌
 
 ### Languages and Tools:
  
