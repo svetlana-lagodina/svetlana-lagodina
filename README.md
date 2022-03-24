@@ -10,8 +10,8 @@ Git <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2f
 Postman <img src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8" width="50" height="50" />&nbsp; &nbsp; &nbsp; &nbsp;
 Swagger <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png" width="50" height="50" />&nbsp; &nbsp; &nbsp; &nbsp;
 Selenium Webdriver <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Selenium_Logo.png/861px-Selenium_Logo.png?20200511151950" width="50" height="50" />
-
-💼 any freelance work? [reach me] (lana.lagodina@gmail.com)
+&nbsp; 
+💼 any freelance work? [reach me] (lana.lagodina@gmail.com)  
 💬 ask me about anything, i am happy to help!
 <!---
 svetlana-lagodina/svetlana-lagodina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
