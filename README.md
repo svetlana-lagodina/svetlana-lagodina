@@ -11,7 +11,8 @@ Postman <img src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1
 Swagger <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png" width="50" height="50" />&nbsp; &nbsp; &nbsp; &nbsp;
 Selenium Webdriver <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Selenium_Logo.png/861px-Selenium_Logo.png?20200511151950" width="50" height="50" />
 
-
+💼 any freelance work? [reach me] (lana.lagodina@gmail.com)
+💬 ask me about anything, i am happy to help!
 <!---
 svetlana-lagodina/svetlana-lagodina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
